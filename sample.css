@@ -1,0 +1,37 @@
+html, body {
+  color: green;
+  background: black;
+  font-family: Courier;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Courier;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+input {
+  background-color: rgba(0,0,0,0.1);
+  color: white;
+  border: none;
+  font-family: Courier;
+}
+
+.form-inline .form-control {
+  width: 50%;
+  margin-left: 120px;
+}
+
+.icon {
+  margin: 6px 10px 6px 0;
+}
